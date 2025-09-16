@@ -1,0 +1,57 @@
+[
+  {
+    "name": "John Doe",
+    "age": 30,
+    "city": "New York",
+    "hobbies": ["reading", "cycling", "coding"],
+    "isStudent": false,
+    "contact": {
+      "email": "john.doe@example.com",
+      "phone": "123-456-7890"
+    }
+  },
+  {
+    "name": "Alice Smith",
+    "age": 25,
+    "city": "Los Angeles",
+    "hobbies": ["painting", "yoga", "hiking"],
+    "isStudent": true,
+    "contact": {
+      "email": "alice.smith@example.com",
+      "phone": "987-654-3210"
+    }
+  },
+  {
+    "name": "Michael Johnson",
+    "age": 40,
+    "city": "Chicago",
+    "hobbies": ["golf", "cooking", "traveling"],
+    "isStudent": false,
+    "contact": {
+      "email": "michael.johnson@example.com",
+      "phone": "555-123-4567"
+    }
+  },
+  {
+    "name": "Sophia Williams",
+    "age": 28,
+    "city": "San Francisco",
+    "hobbies": ["photography", "gardening", "cycling"],
+    "isStudent": false,
+    "contact": {
+      "email": "sophia.williams@example.com",
+      "phone": "444-222-1111"
+    }
+  },
+  {
+    "name": "David Brown",
+    "age": 35,
+    "city": "Boston",
+    "hobbies": ["gaming", "reading", "swimming"],
+    "isStudent": false,
+    "contact": {
+      "email": "david.brown@example.com",
+      "phone": "333-888-7777"
+    }
+  }
+]
